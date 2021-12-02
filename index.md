@@ -25,6 +25,11 @@ of the same artwork across 50 different NFTs, and still market them as unique.
 ### Okay, that's a big price tag, but is there anything actually bad about this?
 
 As a matter of fact, yes. There's a few things that would make one consider NFTs to be bad.
+The main negativities I've seen across the internet concern three major things:
+- The Economic Impact, concerning theft, forgeries, and money laundering,
+- The Environmental Impact, concerning the high energy costs for NFT transactions and other 
+blockchain related involvements, and
+- The Social Impact, concerning art theft and digital artists.
 
 #### 1. The Economic Impact
 
@@ -73,6 +78,14 @@ ones documented in my sources never received any money when their art was used a
 had their art unknowingly stolen and used as an NFT. <br/>
 It makes many digital artists angered to see many people refer to this as the future of digital art when
 their art is stolen, the energy costs, and the apparent capabilites for money laundering are present.
+Although, some digital artists aren't too concerned with the negatives. An artist (Naoki Saito) who made art for a game
+I play recently got involved in NFT, and has created a video and tweets promoting NFT to his hundreds of thousands
+of followers.<br/>
+It often feels like it's being marketed as a pyramid scheme, simply because it is one. Presently,
+early adopters of NFT have reaped the most rewards, and whenever more NFT buyers come in, the
+creators slowly release their supply, creating artifical inflation to the market. Lastly, as I mentioned
+previously, people praise blockchain (and therefore NFT) for being decentralized and unregulated. Doing so
+allows for ambiguity and uncertainty of the value of NFT.
 
 ### Wrapping up...
 
@@ -89,4 +102,15 @@ pay ~$170,000 for a (potentially) cookie cutter image, not support the artist di
 artist receiving none of the money), and promote current energy crises. Check the art out. The choice
 is yours.
 
+![My art 1](/IMG-4261.PNG)
+![My art 2](/IMG-4262.PNG)
+![The NFT art](/ugly.PNG)
+
 ##### Sources:
+https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq
+https://www.cnn.com/2021/03/17/business/what-is-nft-meaning-fe-series/index.html
+https://www.investopedia.com/terms/b/blockchain.asp
+https://frontiergroup.org/blogs/blog/fg/nfts-hot-new-fad-massive-environmental-cost
+https://memoakten.medium.com/analytics-the-unreasonable-ecological-cost-of-cryptoart-72f9066b90d
+https://www.integrityriskintl.com/news-insights/nft-money-laundering-lessons
+https://medium.com/@h.ansel/are-nfts-ponzi-schemes-7dadc83afd15
