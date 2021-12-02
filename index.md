@@ -20,6 +20,8 @@ The way someone owns this token boils down to say "*I* own this art, nobody else
 However, although this is the case, the artist could just as easy produce 50 (if not more)
 of the same artwork across 50 different NFTs, and still market them as unique.
 
+![Beeple](/beeple.jpg)
+
 ### Okay, that's a big price tag, but is there anything actually bad about this?
 
 As a matter of fact, yes. There's a few things that would make one consider NFTs to be bad.
@@ -60,7 +62,31 @@ The second major affect caused by NFTs is the amount of energy necessary to crea
 one. Just one transaction utilizes roughly 35 kWh, which is more than
 the average US household uses per day (approx 28 kWh). However, NFTs also involve minting, bidding,
 selling, and transferring its respective token, all of which added together average
-about 369 kWh, or about 12 days of power for one house. <br/>
+about 369 kWh, or about 13 days of power for one house. <br/>
 The energy cost is solely on the amount of transactions, not the NFTs monetary value.
 
 #### 3. The Social Impact
+
+The third major affect I've seen has been affecting primarily non-NFT artists. This section will be drawing
+from more personal experiences and things I've witnessed. Many artists I've come across on twitter, and 
+ones documented in my sources never received any money when their art was used as NFT, and even some
+had their art unknowingly stolen and used as an NFT. <br/>
+It makes many digital artists angered to see many people refer to this as the future of digital art when
+their art is stolen, the energy costs, and the apparent capabilites for money laundering are present.
+
+### Wrapping up...
+
+So... this is going to be directed at you, the reader, personally. Below this are two
+examples of art made by me, the author of this blog. If you commissioned me for a character art of
+this caliber, I'd price it between $60-$80. The energy cost of making these and sending these to you
+would cost approximately half of my iPads battery, nothing more (The average iPad consumes
+less than 12kWh *annually*). The third image is something called a "cryptokitty", 
+this being the image attached to an NFT that sold for $170,000. The energy cost of making this and sending
+it to you would cost anywhere from 35 kWh to 369 kWh.<br/>
+So, my point is this. *You* could pay $60-$80 dollars, get a custom art piece to your 
+specification, support the artist directly, and not spend two houses worth of energy... *or* you could
+pay ~$170,000 for a (potentially) cookie cutter image, not support the artist directly (sometimes the
+artist receiving none of the money), and promote current energy crises. Check the art out. The choice
+is yours.
+
+##### Sources:
